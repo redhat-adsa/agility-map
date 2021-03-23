@@ -2,7 +2,7 @@
 
 ## These are example draw.io templates that can be used to help map out a customer. 
 
-![8.5x11](images/us-agilitymap-blank.png)
+![Small diagram for Readme](images/small-agilitymap-blank.png)
 
 ---
 ### Printable Version
